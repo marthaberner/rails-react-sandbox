@@ -14,3 +14,13 @@
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+.container {
+  nav {
+    padding: 1em;
+  }
+}
+
+.form-group {
+  width: 50%;
+}
